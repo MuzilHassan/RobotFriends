@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "sega-logo-font";
+    src: url("https://candyfonts.com/wp-data/2019/02/21/12786/SEGA.TTF") format("woff"),
+        url("https://candyfonts.com/wp-data/2019/02/21/12786/SEGA.TTF") format("opentype"),
+        url("https://candyfonts.com/wp-data/2019/02/21/12786/SEGA.TTF") format("truetype");
+}
+
+.bbbb {
+    font-family: "sega-logo-font";
+    font-size: 40px;
+    text-transform: none;
+    color: #F32951
+}
